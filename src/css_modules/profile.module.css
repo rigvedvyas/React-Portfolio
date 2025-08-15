@@ -1,0 +1,44 @@
+.dark{
+    color: #f55d42;
+}
+
+.light{
+    color: #2dc7c7;
+}
+
+.profileContentDark{
+    color: white;
+}
+
+.profileContentLight{
+    color: black;
+}
+
+.eduBoxBorderDark{
+    border: 1px solid #f55d42;
+}
+
+
+.eduBoxBorderLight{
+    border: 1px solid #2dc7c7;
+}
+
+.projectBoxDark{
+   background-color: #212529;
+}
+
+.projectBoxLight{
+   background-color:  rgba(0, 0, 0, 0.150);
+}
+
+.skillsDark{
+     background-color: rgba(245, 93, 66, 0.463);
+     color: #f55d42;
+     font-weight: 500;
+}
+
+.skillsLight{
+    background-color: rgba(45, 199, 199, 0.300);
+    color: #2dc7c7;
+    font-weight: 500;
+}

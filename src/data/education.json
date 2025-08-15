@@ -1,0 +1,21 @@
+[
+    {
+        "id":"1",
+        "logo":"./images/education/sunbeam.jpg",
+        "instituteName":"SunBeam Institute of Information Technology, Pune-Karad",
+        "degree":"PG Diploma In Advanced Computing",
+        "duration":"Aug 2024 - Feb 2025",
+        "grade":"Grade: 70%",
+        "description":"Earned a PG-DAC certification from Sunbeam Infotech, Pune, where I gained strong knowledge in software development and full stack technologies. This training strengthened my skills in front-end, back-end, and database technologies, preparing me for industry-ready software development roles."
+    },
+    {
+        "id":"2",
+        "logo":"./images/education/prmitr.jpg",
+        "instituteName":"Prof. Ram Meghe Institute of Technology & Research",
+        "degree":"Bachelor of Engineering - BE, Electronics and Telecommunication Engineering",
+        "duration":"Aug 2020 - Feb 2024",
+        "grade":"Grade: 7.83 CGPA",
+        "description":"I hold a Bachelor’s degree in Electronics and Telecommunication Engineering from Prof. Ram Meghe Institute of Technology & Research, Amravati University. My engineering journey strengthened my analytical thinking, problem-solving abilities, and technical foundation. These skills have supported my successful transition into software development."
+    }
+]
+

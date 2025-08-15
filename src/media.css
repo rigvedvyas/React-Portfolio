@@ -1,0 +1,908 @@
+@media only screen and (min-width: 992px) and (max-width:1200px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 960px;
+    }
+
+    .footItem1{
+        font-size: 15px;
+       
+    }
+
+    .footItem2{
+        font-size: 15px;
+    }
+
+    .profilePic{
+    width: 320px !important;
+    height: 320px !important;
+   
+    }
+    
+    .profileIntroDiv{
+        padding-top: 30px !important;
+        padding-right: 10px !important;
+    }
+
+    .profileIntro{
+    font-size: 17px !important;
+    }
+
+    .developerPic{
+    height: 330px !important;
+    width: 330px !important;
+    }
+
+     .techSummary{
+        font-size: 27px;
+    }
+
+    .profileGeneralFont{
+        font-size: 17px !important;
+    }
+
+     .skillContainer{
+    width: 80% !important;
+    }
+
+    .skillBox{
+    width: 120px !important;
+    height: 120px !important;   
+    }
+
+    .skillIcon{
+    width: 60px !important;
+    height: 60px !important;
+    }
+
+    .eduContainer{
+    width: 90% !important;
+    }
+
+    .eduBox .institute{
+    font-size: 18px !important;
+    }
+
+    .eduBox .degree{
+    font-size: 14px !important;
+    }
+
+    .eduBox .duration{
+    font-size: 12px;
+    }
+
+    .eduBox .grade{
+    font-size: 14px !important;
+    }
+
+    .eduBox .description{
+    font-size: 17px !important;
+    }
+
+    .techSkills{
+        font-size: 27px !important;
+    }
+
+    .educationHeadline{
+        font-size: 27px !important;
+    }
+
+      .projectBox{
+    width: 80vw !important;
+    }
+
+    .projectHeadline{
+        font-size: 27px !important;
+    }
+
+    .certificateHeadline{
+        font-size: 27px !important;
+    }
+
+    .projectInnerBox{
+    width: 70vw !important;
+    }
+
+    .projectSkillsDiv{
+    width: 40% !important;
+    }
+
+    .projectName{
+    font-size: 24px !important;
+    }
+
+    .projectDuration{
+    font-size: 16px !important;
+    }
+
+    .projDescription{
+    font-size: 18px !important;
+    }
+
+    .viewCodeBtn{
+    width: 150px !important;
+    }
+
+    
+    .certificateMsgDiv h4{
+        font-size: 23px !important;
+    }
+
+    .certificateMsgDiv h3{
+        font-size: 25px !important;
+    }
+
+    .certificateMsgDiv{
+        width: 70% !important;
+    }
+
+    .certificateImg{
+    width: 360px !important;
+    height: 350px !important;
+    }
+
+    .certficateBox{
+        box-shadow: none !important;
+    }
+
+    .certificateinfo h5{
+        font-size: 20px;
+    }
+
+    .contactHeadline{
+        font-size: 27px !important;
+    }
+
+    .contactPara{
+        font-size: 17px !important;
+    }
+
+    .contactUsImg{
+    width: 300px !important;
+    height: 300px !important;
+    }
+
+    .formTagLine{
+        font-size: 17px !important;
+    }
+
+    .contactSendBtn{
+        width: 25% !important;
+    
+    }
+
+    .contactContainer{
+        width: 100% !important;
+        
+    }
+
+}
+@media only screen and (min-width: 757px) and (max-width:991px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 720px;
+    }
+
+   .footItem1{
+       padding: 8px 0px !important;
+       font-size: 15px;
+    }
+
+    .footItem2{
+      padding: 8px 0px !important;
+      font-size: 15px;
+    }
+
+    .footIcons{
+         padding: 3px 4px !important;
+    }
+
+    .footIcons a img{
+        width: 22px !important;
+        height: 22px !important;
+    }
+
+    .breakPoint{
+        display: inline !important;
+    }
+    
+     .profilePic{
+    width: 275px !important;
+    height: 275px !important;
+   
+    }
+
+    .navbar{
+        margin-bottom: 35px;
+    }
+
+    .profileIntroDiv{
+        padding-top: 20px !important;
+        padding-right: 10px !important;
+    }
+    
+    .developerPic{
+    height: 300px !important;
+    width: 300px !important;
+    }
+
+    .profileIntro{
+    font-size: 17px !important;
+    }
+    
+    .profileIntroLineBreak{
+        display: block !important;
+    }
+
+     .techSummary{
+        font-size: 26px;
+    }
+
+    .profileGeneralFont{
+        font-size: 17px !important;
+    }
+
+    .skillContainer{
+    width: 90% !important;
+    }
+
+    .skillBox{
+    width: 110px !important;
+    height: 110px !important;   
+    }
+
+    .skillIcon{
+    width: 55px !important;
+    height: 55px !important;
+    }
+
+    .skillName{
+        font-size: 16px;
+    }
+
+    .eduContainer{
+    width: 90% !important;
+    }
+
+    .eduBox .institute{
+    font-size: 18px !important;
+    }
+
+    .eduBox .degree{
+    font-size: 14px !important;
+    }
+
+    .eduBox .duration{
+    font-size: 12px;
+    }
+
+    .eduBox .grade{
+    font-size: 14px !important;
+    }
+
+    .eduBox .description{
+    font-size: 17px !important;
+    }
+
+    .techSkills{
+        font-size: 26px !important;
+    }
+
+    .educationHeadline{
+        font-size: 26px !important;
+    }
+
+      .projectBox{
+    width: 70vw !important;
+    }
+
+    .projectInnerBox{
+    width: 60vw !important;
+    }
+
+    .projectSkillsDiv{
+    width: 50% !important;
+    }
+
+    .projectName{
+    font-size: 23px !important;
+    }
+
+    .projectHeadline{
+        font-size: 26px !important;
+    }
+
+    .certificateHeadline{
+        font-size: 26px !important;
+    }
+
+    .projectDuration{
+    font-size: 16px !important;
+    }
+
+    .projDescription{
+    font-size: 17px !important;
+    }
+
+    .viewCodeBtn{
+    width: 150px !important;
+    }
+
+    .certificateMsgDiv h4{
+        font-size: 22px !important;
+    }
+
+    .certificateMsgDiv h3{
+        font-size: 23px !important;
+    }
+
+    .certificateMsgDiv{
+        width: 65% !important;
+    }
+
+    .certificateImg{
+    width: 360px !important;
+    height: 350px !important;
+    }
+
+    .certficateBox{
+        box-shadow: none !important;
+    }
+
+    .certificateinfo h5{
+        font-size: 19px;
+    }
+
+    .contactHeadline{
+        font-size: 26px !important;
+    }
+
+    .contactPara{
+        font-size: 17px !important;
+    }
+
+    .contactUsImg{
+    width: 280px !important;
+    height: 280px !important;
+    }
+
+    .formTagLine{
+        font-size: 17px !important;
+    }
+
+    .contactSendBtn{
+        width: 20% !important;
+    
+    }
+
+    .contactContainer{
+        width: 90% !important;
+        
+    }
+
+    .offcanvasNavItems{
+        font-size: 15px !important;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width:756px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 960px;
+    }
+
+    .footItem1{
+       padding: 8px 0px !important;
+       font-size: 15px;
+    }
+
+    .footItem2{
+      padding: 8px 0px !important;
+      font-size: 15px;
+    }
+
+    .footIcons{
+         padding: 3px 4px !important;
+    }
+
+     .footIcons a img{
+        width: 22px !important;
+        height: 22px !important;
+    }
+
+     .breakPoint{
+        display: inline !important;
+    }
+
+    .navbar{
+        margin-bottom: 35px;
+    }
+
+    .profilePic{
+    width: 250px !important;
+    height: 250px !important;
+   
+    }
+
+    .whatIDo{
+        font-size: 18px !important;
+    }
+
+    .home-content-left{
+        padding-left: 15px !important;
+    }
+
+    .profileIntroDiv{
+        padding-top: 10px !important;
+        padding-right: 10px !important;
+        padding-left: 0px !important;
+    }
+    
+    .developerPic{
+    height: 250px !important;
+    width: 250px !important;
+    }
+
+    .profileIntro{
+    font-size: 17px !important;
+    }
+    
+    .profileIntroLineBreak{
+        display: block !important;
+    }
+
+     .techSummary{
+        font-size: 25px;
+    }
+
+    .profileGeneralFont{
+        font-size: 17px !important;
+    }
+
+     .skillContainer{
+    width: 80% !important;
+    }
+
+    .skillBox{
+    width: 100px !important;
+    height: 100px !important;   
+    }
+
+    .skillIcon{
+    width: 50px !important;
+    height: 50px !important;
+    }
+
+    .skillName{
+        font-size: 16px;
+    }
+
+    .eduContainer{
+    width: 90% !important;
+    }
+
+    .eduBox .institute{
+    font-size: 17px !important;
+    }
+
+    .eduBox .degree{
+    font-size: 14px !important;
+    }
+
+    .eduBox .duration{
+    font-size: 12px;
+    }
+
+    .eduBox .grade{
+    font-size: 14px !important;
+    }
+
+    .eduBox .description{
+    font-size: 16px !important;
+    }
+
+    .techSkills{
+        font-size: 25px !important;
+    }
+
+    .educationHeadline{
+        font-size: 25px !important;
+    }
+
+    .projectBox{
+    width: 90vw !important;
+    }
+
+    .projectHeadline{
+        font-size: 25px !important;
+    }
+
+    .certificateHeadline{
+        font-size: 25px !important;
+    }
+
+    .projectInnerBox{
+    width: 80vw !important;
+    }
+
+    .projectSkillsDiv{
+    width: 60% !important;
+    }
+
+    .projectName{
+    font-size: 21px !important;
+    }
+
+    .projectDuration{
+    font-size: 15px !important;
+    }
+
+    .projDescription{
+    font-size: 17px !important;
+    }
+
+    .viewCodeBtn{
+    width: 140px !important;
+    }
+
+     .certificateMsgDiv h4{
+        font-size: 21px !important;
+    }
+
+    .certificateMsgDiv h3{
+        font-size: 22px !important;
+    }
+
+    .certificateMsgDiv{
+        width: 65% !important;
+    }
+
+    .certificateImg{
+    width: 340px !important;
+    height: 330px !important;
+    }
+
+    .certficateBox{
+        box-shadow: none !important;
+    }
+
+    .certificateinfo h5{
+        font-size: 18px;
+    }
+
+    .contactHeadline{
+        font-size: 25px !important;
+    }
+
+    .contactPara{
+        font-size: 17px !important;
+    }
+
+    .contactUsImg{
+    width: 250px !important;
+    height: 250px !important;
+    }
+
+    .formTagLine{
+        font-size: 17px !important;
+    }
+
+    .contactSendBtn{
+        width: 23% !important;
+    
+    }
+
+    .contactContainer{
+        width: 95% !important;
+        
+    }
+
+    
+
+    .offcanvasNavItems{
+        font-size: 15px !important;
+    }
+}
+
+@media only screen and (min-width: 577px) and (max-width:650px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 960px;
+    }
+
+    .footItem1{
+       padding: 8px 0px !important;
+       font-size: 15px;
+    }
+
+    .footItem2{
+      padding: 8px 0px !important;
+      font-size: 15px;
+    }
+
+    .footIcons{
+         padding: 3px 4px !important;
+    }
+
+     .footIcons a img{
+        width: 22px !important;
+        height: 22px !important;
+    }
+
+     .breakPoint{
+        display: inline !important;
+    }
+
+     .profilePic{
+    width: 230px !important;
+    height: 230px !important;
+   
+    }
+
+    .home-content-left h1{
+        font-size: 26px;
+    }
+
+    .home-content-left h2{
+        font-size: 21px;
+    }
+
+    .home-content-left button{
+        font-size: 14px;
+    }
+
+    .resumeBtn{
+        padding: 8px 16px !important;
+    }
+
+    .resumeBtn{
+        padding: 8px 16px !important;
+    }
+
+    .profileIntroDiv{
+        padding-top: 30px !important;
+        padding-right: 10px !important;
+        padding-left: 0px !important;
+    }
+
+    .profileIntro{
+    font-size: 16px !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .footItem1{
+       padding: 3px 0px !important;
+        font-size: 14px;
+    }
+
+    .footItem2{
+      padding: 5px 0px !important;
+       font-size: 14px;
+    }
+    .footIcons{
+         padding: 3px 4px !important;
+         margin-top: 3px;
+    }
+
+    .footIcons a img{
+        width: 22px !important;
+        height: 22px !important;
+    }
+
+    .navbar-brand{
+        font-size: 17px !important;
+    }
+
+    .footerContainer{
+         border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+
+    }
+
+    .profilePic{
+    width: 210px !important;
+    height: 210px !important;
+   
+    }
+
+     .home-content-left h1{
+        font-size: 26px;
+    }
+
+    .home-content-left h2{
+        font-size: 21px;
+    }
+
+    .home-content-left button{
+        font-size: 14px;
+    }
+
+    .resumeBtn{
+        padding: 8px 20px !important;
+    }
+
+
+    .frames{
+        padding: 8px 8px !important;
+    }
+
+    .whatIDo{
+        font-size: 18px !important;
+    }
+
+    .upperRow{
+        margin-bottom: 100px !important;
+    }
+
+    .footer-pad{
+        padding-top: 15px !important;
+        padding-bottom: 0px !important;
+    }
+
+    .developerPic{
+    height: 230px !important;
+    width: 230px !important;
+    }
+
+    .profileIntro{
+    font-size: 16px !important;
+    }
+
+    .profileIntroDiv{
+        padding-top: 30px !important;
+        padding-right: 10px !important;
+    }
+
+    .profileIntroLineBreak{
+        display: block !important;
+    }
+
+    .techSummary{
+        font-size: 23px;
+    }
+
+    .profileGeneralFont{
+        font-size: 16px !important;
+    }
+
+    .techSkills{
+        font-size: 23px !important;
+    }
+
+    .skillContainer{
+    width: 90% !important;
+    }
+
+    .skillBox{
+    width: 90px !important;
+    height: 90px !important;   
+    }
+
+    .skillIcon{
+    width: 40px !important;
+    height: 40px !important;
+    }
+
+    .skillName{
+        font-size: 15px;
+    }
+
+    .eduContainer{
+    width: 100% !important;
+    }
+
+    .eduBox .institute{
+    font-size: 17px !important;
+    }
+
+    .eduBox .degree{
+    font-size: 13px !important;
+    }
+
+    .eduBox .duration{
+    font-size: 12px;
+    }
+
+    .eduBox .grade{
+    font-size: 13px !important;
+    }
+
+    .eduBox .description{
+    font-size: 16px !important;
+    }
+
+    .educationHeadline{
+        font-size: 23px !important;
+    }
+
+    .certificateHeadline{
+        font-size: 23px !important;
+    }
+
+    .projectBox{
+    width: 100vw !important;
+    }
+
+    .projectInnerBox{
+    width: 80vw !important;
+    }
+
+    .projectSkillsDiv{
+    width: 70% !important;
+    }
+
+    .projectHeadline{
+        font-size: 23px !important;
+    }
+
+    .projectName{
+    font-size: 19px !important;
+    }
+
+    .projectDuration{
+    font-size: 15px !important;
+    }
+
+    .projDescription{
+    font-size: 16px !important;
+    }
+
+    .viewCodeBtn{
+    width: 130px !important;
+    }
+
+    .certificateMsgDiv h4{
+        font-size: 20px !important;
+    }
+
+    .certificateMsgDiv h3{
+        font-size: 21px !important;
+    }
+
+    .certificateMsgDiv{
+        width: 65% !important;
+    }
+
+    .certificateImg{
+    width: 270px !important;
+    height: 260px !important;
+    }
+
+    .certficateBox{
+        box-shadow: none !important;
+    }
+
+    .certificateinfo h5{
+        font-size: 18px;
+    }
+
+    .contactHeadline{
+        font-size: 23px !important;
+    }
+
+    .contactPara{
+        font-size: 16px !important;
+    }
+
+    .contactUsImg{
+    width: 230px !important;
+    height: 230px !important;
+    }
+
+    .formTagLine{
+        font-size: 17px !important;
+    }
+
+    .contactSendBtn{
+        width: 40% !important;
+    
+    }
+
+    .contactContainer{
+        width: 95% !important;
+        
+    }
+
+    .offcanvas{
+    width: 82% !important;
+    }
+}
+
+

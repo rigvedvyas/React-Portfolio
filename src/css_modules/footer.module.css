@@ -1,0 +1,45 @@
+.footItemsDark{
+    color: white;
+}
+
+.footItemsLight{
+    color: black;
+}
+
+.footerBgDark{
+    background-color: #212529;
+}
+
+.footerBgLight{
+    background-color:  rgba(0, 0, 0, 0.220) !important;
+}
+
+.footItemsDark:hover{
+    color: #f55d42;
+}
+
+.footItemsLight:hover{
+    color: #2dc7c7;
+}
+
+.footIconsDark{
+    background-color: #f55d42;
+    border-radius: 50%;
+    border: 2px solid transparent;
+}
+
+.footIconsDark:hover{
+    border: 2px solid #f55d42;
+    background-color: transparent;
+}
+
+.footIconsLight{
+    background-color: #2dc7c7;
+    border-radius: 50%;
+     border: 2px solid transparent;
+}
+
+.footIconsLight:hover{
+    border:2px solid #2dc7c7 ;
+    background-color: transparent;
+}

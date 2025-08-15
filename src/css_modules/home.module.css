@@ -1,0 +1,99 @@
+.homeContentDark{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+
+}
+
+.homeContentLight{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+
+}
+
+.homeColoredContentDark{
+    color: #f55d42;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+
+}
+
+.homeColoredContentLight{
+    color: #2dc7c7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+}
+
+.homeBtnsDark{
+    background-color: #f55d42;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: 500;  
+}
+
+
+.homeBtnsLight{
+    background-color: #2dc7c7;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    font-weight: 500;
+}
+
+
+
+.homeContactBtnDark{
+    background-color: transparent;
+    border: 2px solid #f55d42;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+
+.homeContactBtnDark:hover{
+    background-color: #f55d42;
+}
+
+
+.homeContactBtnLight{
+    background-color: transparent;
+    border: 2px solid #2dc7c7;
+    border-radius: 5px;
+    color: black;
+    font-weight: 500;
+
+}
+
+.homeContactBtnLight:hover{
+    background-color: #2dc7c7;
+}
+
+.homeframesBgDark{
+    background-color: #212529;
+}
+
+.homeframesBgLight{
+    background-color: rgba(0, 0, 0, 0.150) ;
+}
+
+.homeframesContentDark{
+    color: white;
+}
+
+.homeframesContentLight{
+    color: black;
+}
+
+.homeframeIconsDark{
+    background-color: #f55d42;
+}
+
+.homeframeIconsLight{
+    background-color: #2dc7c7;
+}
+
+.homePicDark{
+    box-shadow: var(--box-shadowDark);
+}
+
+.homePicLight{
+    box-shadow: var(--box-shadowLight);
+}

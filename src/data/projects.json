@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "projectName":"Tours & Travel Management System",
+        "duration":"Aug 2024 - Feb 2025",
+        "description":"Developed a travel management system that streamlines travel services by allowing Admin to manage Tour packages and Guides, while Tour Guides can create and update tour packages (events). Customers can explore available tours, make bookings, and view personalized itineraries.",
+        "skills":[
+            "React.js","MySQL","Springboot","Redux","JWT","Axios"
+        ],
+        "imgSrc1":"./images/projects/s1.png",
+        "imgSrc2":"./images/projects/s2.png",
+        "imgSrc3":"./images/projects/s3.png"
+    }
+   
+    
+]

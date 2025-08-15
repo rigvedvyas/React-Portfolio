@@ -1,0 +1,75 @@
+[
+    {
+        "id":"1",
+        "title":"HTML5",
+        "imgSrc":"./images/skills/html.png"
+    },
+     {
+        "id":"2",
+        "title":"CSS3",
+        "imgSrc":"./images/skills/css.png"
+    },
+     {
+        "id":"3",
+        "title":"Javascript",
+        "imgSrc":"./images/skills/javascript.png"
+    },
+     {
+        "id":"4",
+        "title":"Bootstrap",
+        "imgSrc":"./images/skills/bootstrap.png"
+    },
+
+    {
+        "id":"5",
+        "title":"C++",
+        "imgSrc":"./images/skills/cpp.png"
+    },
+
+    {
+        "id":"6",
+        "title":"Java",
+        "imgSrc":"./images/skills/java.png"
+    },
+
+    {
+        "id":"7",
+        "title":"MySQL",
+        "imgSrc":"./images/skills/mysql.png"
+    },
+
+    {
+        "id":"8",
+        "title":"RESTful APIs",
+        "imgSrc":"./images/skills/rest.png"
+    },
+
+    {
+        "id":"9",
+        "title":"SpringBoot",
+        "imgSrc":"./images/skills/SpringBoot.png"
+    },
+
+    {
+        "id":"10",
+        "title":"React JS",
+        "imgSrc":"./images/skills/react.png"
+    },
+    {
+        "id":"11",
+        "title":"Redux",
+        "imgSrc":"./images/skills/redux.png"
+    },
+    {
+        "id":"12",
+        "title":"Git",
+        "imgSrc":"./images/skills/git.png"
+    },
+
+     {
+        "id":"13",
+        "title":"Github",
+        "imgSrc":"./images/skills/github.png"
+    }
+
+]

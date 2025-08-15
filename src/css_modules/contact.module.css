@@ -1,0 +1,56 @@
+.contactSpecialContentDark{
+    color: #f55d42;
+}
+
+.contactSpecialContentLight{
+    color: #2dc7c7;
+}
+
+.contactNormalContentDark{
+    color: white !important;
+}
+
+.contactNormalContentLight{
+    color: black !important;
+}
+
+.contactFormBgDark{
+    background-color: #212529;
+}
+
+.contactFormBgLight{
+    background-color:  rgba(0, 0, 0, 0.150) !important;
+
+}
+
+.formInputDark{
+    color: white;
+    border-bottom: 1px solid #f55d42 !important;
+}
+
+.formInputDark:focus{
+    color: white;
+     border-bottom: 1px solid #f55d42 !important;
+}
+
+.formInputLight{
+    color: black;
+    border-bottom: 1px solid #2dc7c7 !important;
+}
+
+.formInputLight:focus{
+    color: black;
+     border-bottom: 1px solid #2dc7c7 !important;
+}
+
+.contactSendBtnDark{
+    background-color: #f55d42;
+    border: none;
+    border-radius: 5px;
+}
+
+.contactSendBtnLight{
+    background-color: #2dc7c7;
+    border: none;
+    border-radius: 5px;
+}

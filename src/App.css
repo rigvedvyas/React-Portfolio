@@ -1,0 +1,247 @@
+:root{
+    --box-shadowDark: 0px 4px 20px 10px #f55d42;
+    --box-shadowLight: 0px 4px 20px 12px #2dc7c7;
+    --skill-box:5px 5px 8px rgba(0, 0, 0, 0.250);
+}
+
+.body-background-dark{
+    background-color: rgb(29, 29, 29);
+}
+
+.body-background-light{
+    background-color: white;
+}
+
+.div-container{
+    
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+.footer-pad{
+ padding-top: 17px;
+ padding-bottom: 17px;
+}
+
+
+.breakPoint{
+    display: none;
+}
+
+.footerContainer{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.footIcons{
+    padding: 5px 5px;
+}
+
+.profilePic{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+   
+}
+
+.home-content-left{
+    margin-top: 50px;
+}
+
+
+
+.frames{
+    padding: 20px 20px;
+    width: 50vw;
+    border-radius: 5px;
+    box-shadow: var(--skill-box);
+    transition: transform 0.3s ease;
+}
+
+.frames:hover{
+    transform: translateX(0px) translateY(5px);
+}
+
+.frames div p {
+    font-size: 20px;
+}
+
+.upperRow{
+    margin-bottom: 150px;
+}
+
+.developerPic{
+    height: 350px;
+    width: 350px;
+}
+
+.profileIntro{
+    font-size: 18px;
+}
+
+.profileIntroDiv{
+   padding-top: 30px;
+   padding-right: 50px;
+   
+   font-weight: 500;
+}
+
+.profileGeneralFont{
+    font-size: 17px;
+}
+
+.skillContainer{
+    width: 70%;
+}
+
+.skillBox{
+    width: 120px;
+    height: 120px;   
+    box-shadow: var(--skill-box);
+    transition: transform 0.3s ease;
+}
+
+.skillBox:hover{
+    transform: translateX(0px) translateY(5px);
+}
+
+.skillIcon{
+    width: 60px;
+    height: 60px;
+}
+
+.skillName{
+    font-weight: 500;
+}
+
+.eduBox{
+    gap: 16px;
+    border-radius: 10px;
+    box-shadow: var(--skill-box);
+    transition: transform 0.5s ease;
+}
+
+.eduBox:hover{
+     transform: translateY(-8px);
+}
+
+.eduContainer{
+    width: 65%;
+}
+
+.eduBox .institute{
+    font-size: 18px;
+}
+
+.eduBox .degree{
+    font-size: 14px;
+}
+
+.eduBox .duration{
+    font-size: 12px;
+}
+
+.eduBox .grade{
+    font-size: 14px;
+}
+
+.eduBox .description{
+    font-size: 17px;
+}
+
+.projSkills{
+    font-size: 14px;
+}
+
+.projDescription{
+    font-size: 18px;
+}
+
+.certificateImg:hover{
+    transition: transform 1s ease;
+    transform: scale(1.3);
+}
+
+.imgDiv{
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.viewCodeBtn{
+    width: 155px;
+}
+
+.projectBox{
+    box-shadow: var(--skill-box);
+    width: 55vw;
+    border-radius: 10px;
+}
+
+.projectInnerBox{
+    width: 50vw;
+}
+
+.projectSkillsDiv{
+    width: 40%;
+}
+
+.certificateMsgDiv{
+    width: 65%;
+}
+
+.certficateBox{
+    box-shadow: var(--skill-box);
+}
+
+.certificateImg{
+    width: 370px;
+    height: 360px;
+    border-radius: 10px;
+}
+
+.profileIntroLineBreak{
+    display: none;
+}
+
+.contactPara{
+    font-size: 17px;
+}
+
+.contactContainer{
+    width: 100%;
+    box-shadow: var(--skill-box);
+}
+
+.contactContainer span{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.contactSendBtn{
+    width: 25%;
+    
+}
+
+.contactUsImg{
+    width: 350px;
+    height: 350px;
+}
+
+.contactForm .formInput{
+    background-color: transparent;
+    border-radius: 0px;
+    border: 1px solid transparent;
+    padding: 16px 20px;
+}
+
+.formInput:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.contactContainer .form-floating > label::after{
+    background-color: transparent !important;
+}
+
